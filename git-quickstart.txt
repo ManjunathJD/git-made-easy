@@ -1,0 +1,7 @@
+# Git quick start
+
+**git status** shows what has changed in the working tree and what is already staged, so you can see where you are before you act.
+
+**git add** stages selected changes: it picks the files (or hunks) you choose and marks them for the next commit, without recording anything yet.
+
+**git commit** records the staged changes as one entry in the history, with a message that explains why the change was made.
